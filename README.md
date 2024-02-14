@@ -1,1 +1,1 @@
-# company.github.io
+# company.com
